@@ -9,3 +9,4 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 __wifi network analyser__
 
+__$1 million Stock Market Challenge__
